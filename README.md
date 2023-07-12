@@ -20,6 +20,6 @@ Ported over from the [original document](https://docs.google.com/document/d/1kMI
 
 ## Intro
 
-Early into the AY12/13 academic year, Prof The bunch of seniors who were gathered there put together a document for NUS computing freshmen. This is that document.
+Early into the 2023 academic year, The bunch of seniors who were gathered at PESU discord server put together a document for PES computing freshmen. This is that document.
 
 Feel free to create a pull request to edit or add to it, and share it with other freshmen you know.
