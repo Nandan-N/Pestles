@@ -15,7 +15,7 @@
 
 Ported over from the [original document](https://docs.google.com/document/d/1kMIUJq4nHCw7Kc52_acFYXGZnfGfd87SmV9uZmMvByM/edit?usp=sharing).
 
-🌸 An opensourced guide book with advice and secret tips to help newgrads navigate the Pes University
+🌸 An opensourced guide book with advice and secret tips to help newgrads navigate the PES University
 
 
 ## Intro
