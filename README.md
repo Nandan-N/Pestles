@@ -1,3 +1,7 @@
+Peoject has now migrated to -
+![HSP club repository](https://github.com/HackerSpace-PESU/pesu-for-dummies) 
+
+
 <h1 align="center">
   <br>
   <br>
